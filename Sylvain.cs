@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace GithubMerge
 {
-    internal class Sylvain
+    public class Sylvain
     {
+        public void Run()
+        {
+            Console.Write("Hey");
+        }
     }
 }
