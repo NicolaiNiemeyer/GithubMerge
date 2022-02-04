@@ -11,6 +11,7 @@ namespace GithubMerge
         public void HelloGit()
         {
             Console.WriteLine("Hello Git");
+            Task.Delay(2000);
         }
     }
 }
