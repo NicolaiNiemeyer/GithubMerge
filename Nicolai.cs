@@ -8,5 +8,9 @@ namespace GithubMerge
 {
     internal class Nicolai
     {
+        public void HelloGit()
+        {
+            Console.WriteLine("Hello Git");
+        }
     }
 }
